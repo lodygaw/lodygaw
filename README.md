@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Ph.D. candidate at Warsaw University of Technology. My field is computer science, but most of my work is somehow interdisciplinary as it overlaps with nuclear physics and electrical engineering.
+
+I am currently working on cold plasma simulations with the Particle-in-Cell method coupled with Monte Carlo Collisions. As these are relatively computationally demanding, I also learn to parallelize them on GPUs. If you are an advanced GPU programmer, I would love some guidance!
+
+
 <!--
 **lodygaw/lodygaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
